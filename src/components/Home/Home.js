@@ -2,20 +2,22 @@ import React from 'react';
 import Header from '../Header/Header';
 import useReview from '../../Hooks/UseReviews';
 import ReviewItem from '../ReviewItem/ReviewItem';
+import ReviewBtn from '../ReviewBtn/ReviewBtn';
 
 const Home = () => {
-    const [reviews, setReviews] = useReview()
+    const [reviews] = useReview();
     return (
         <>
-        <Header></Header>
+            <Header></Header>
 
-        <h1 className='text-4xl text-center font-bold text-red-600 mt-24'>What Our Customers Say</h1>
+            <h1 className='text-4xl text-center font-bold text-red-600 mt-24'>What Our Customers Say</h1>
 
-        <div className='container grid grid-cols-3 gap-3 mx-auto'>
-        {
-            reviews.map(review => <ReviewItem key={review.id} review={review} ></ReviewItem>)
-        }
-        </div>
+            <div className='container grid grid-cols-3 gap-3 mx-auto'>
+            {
+                reviews.map(review => <ReviewItem key={review.id} review={review} ></ReviewItem>)
+            }
+            </div>
+            <ReviewBtn></ReviewBtn>
         </>
     );
 };
