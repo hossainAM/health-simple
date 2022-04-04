@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "review": "I've been trying to include apple cider vinegar into my routine for ages, but the taste just made it so hard. Goli ACV Gummies really were a game changer for me.",
+        "name": "Redwan Chowdhury",
+        "image": "../src/Assets/Redwan Chowdhury.png",
+        "rating": 5
+    },
+    {
+        "id": 201,
+        "review": "Goli Gummies are my favorite!! I recently introduced them to my friends and family, we're all officially hooked! Thanks for making it easier to include essential vitamins with such a great tasting product!",
+        "name": "Amir Hossain",
+        "image": "../src/Assets/Amir Hossain.png",
+        "rating": 4.5
+    },
+    {
+        "id": 301,
+        "review": "These Goli ACV Gummies really are the whole package. Vegan, gluten-free and tastes like apples. Best way to take apple cider vinegar.",
+        "name": "Samira Akter",
+        "image": "../src/Assets/Samira Akter.png",
+        "rating": 4
+    },
+    {
+        "id": 401,
+        "review": "WOW. They taste amazing, the ingredients offer so many benefits and they're SUPER convenient. Love love love them!!",
+        "name": "Tajrian Ibn Amir",
+        "image": "../src/Assets/Tajrian Ibn Amir.png",
+        "rating": 5
+    },
+    {
+        "id": 501,
+        "review": "Not a fan of greens so I was hesitant about these and all I can say is WOW!!!! This is the first time in my life that I have ever actually enjoyed getting in my daily vitamins and essential nutrients. They are sooooo yummy. Have so many great benefits and are so easy to take. All I can say is….THANK YOU GOLI!",
+        "name": "Ameera Amreen",
+        "image": "../src/Assets/Ameera Amrin.png",
+        "rating": 5
+    },
+    {
+        "id": 601,
+        "review": "I am officially hooked! Honestly cannot believe you have managed to make greens SOOOO DELICIOUS! I cannot wait to take these daily! Game changer to my daily health routine.",
+        "name": "Ryahan Sobhan",
+        "image": "../src/Assets/Rayhan Sobhan.png",
+        "rating": 4
+    }
+]
