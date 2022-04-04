@@ -3,42 +3,42 @@
         "id": 101,
         "review": "I've been trying to include apple cider vinegar into my routine for ages, but the taste just made it so hard. Goli ACV Gummies really were a game changer for me.",
         "name": "Redwan Chowdhury",
-        "image": "../src/Assets/Redwan Chowdhury.png",
+        "image": "https://i2.wp.com/crossmodeparis.com/wp-content/uploads/2018/05/user-avatar-3.png",
         "rating": 5
     },
     {
         "id": 201,
         "review": "Goli Gummies are my favorite!! I recently introduced them to my friends and family, we're all officially hooked! Thanks for making it easier to include essential vitamins with such a great tasting product!",
         "name": "Amir Hossain",
-        "image": "../src/Assets/Amir Hossain.png",
+        "image": "https://i2.wp.com/crossmodeparis.com/wp-content/uploads/2018/05/user-avatar-4.png",
         "rating": 4.5
     },
     {
         "id": 301,
         "review": "These Goli ACV Gummies really are the whole package. Vegan, gluten-free and tastes like apples. Best way to take apple cider vinegar.",
         "name": "Samira Akter",
-        "image": "../src/Assets/Samira Akter.png",
+        "image": "https://i2.wp.com/crossmodeparis.com/wp-content/uploads/2018/05/user-avatar-5.png",
         "rating": 4
     },
     {
         "id": 401,
         "review": "WOW. They taste amazing, the ingredients offer so many benefits and they're SUPER convenient. Love love love them!!",
         "name": "Tajrian Ibn Amir",
-        "image": "../src/Assets/Tajrian Ibn Amir.png",
+        "image": "https://i2.wp.com/crossmodeparis.com/wp-content/uploads/2018/05/user-avatar-6.png",
         "rating": 5
     },
     {
         "id": 501,
         "review": "Not a fan of greens so I was hesitant about these and all I can say is WOW!!!! This is the first time in my life that I have ever actually enjoyed getting in my daily vitamins and essential nutrients. They are sooooo yummy. Have so many great benefits and are so easy to take. All I can say is….THANK YOU GOLI!",
         "name": "Ameera Amreen",
-        "image": "../src/Assets/Ameera Amrin.png",
+        "image": "https://i1.wp.com/roohentertainment.com/wp-content/uploads/2018/06/user-avatar-1.png?ssl=1",
         "rating": 5
     },
     {
         "id": 601,
         "review": "I am officially hooked! Honestly cannot believe you have managed to make greens SOOOO DELICIOUS! I cannot wait to take these daily! Game changer to my daily health routine.",
-        "name": "Ryahan Sobhan",
-        "image": "../src/Assets/Rayhan Sobhan.png",
+        "name": "Farzana Ferdous",
+        "image": "https://i2.wp.com/crossmodeparis.com/wp-content/uploads/2018/05/user-avatar-2.png",
         "rating": 4
     }
 ]
