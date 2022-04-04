@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav className='bg-red-700 p-3'>
            <div className="container mx-auto">
                <div className='sm:flex justify-around'>
-                   <a href="#" className='text-white text-3xl font-bold p-3'>HEALTH SIMPLE</a>
+                   <a target="_blank" rel="noreferrer" href="https://majestic-sprite-6cec97.netlify.app/" className='text-white text-3xl font-bold p-3'>HEALTH SIMPLE</a>
 
                     <ul className='text-gray-400 sm:self-center text-xl border-t sm:border-none'>
                     <li className='sm:inline-block'>
