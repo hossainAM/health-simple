@@ -1,8 +1,10 @@
 import React from 'react';
+import { useLocation } from 'react-router-dom';
 
 const Footer = () => {
+    const {pathname} = useLocation();
     return (
-       <footer className="text-gray-600 body-font bg-red-600">
+       <footer className="text-gray-600 body-font bg-red-600" style={pathname.includes('blogs') ? {display: 'none'} : {display: 'flex'}}>
             <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
                 <a target="_blank" rel="noreferrer" href="https://majestic-sprite-6cec97.netlify.app/" className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
                 <span className="ml-3 text-xl text-white">Health Simple</span>
