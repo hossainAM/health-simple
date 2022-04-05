@@ -12,9 +12,9 @@ const Dashboard = () => {
     // console.log(dashboard)
 
     return (
-        <div className='grid grid-cols-2'>
+        <div className='grid sm:grid-cols-2 justify-center'>
             <div>
-                <h1 className='my-6 text-4xl'>Monthly Sales</h1>
+                <h1 className='my-6 text-4xl text-center'>Monthly Sales</h1>
                 <ResponsiveContainer width='50%' height={350}>
                     <LineChart width={800} height={350} data={dashboard}>
                         <Line dataKey='sell'></Line>
@@ -26,7 +26,7 @@ const Dashboard = () => {
                 </ResponsiveContainer>
             </div>
             <div>
-                <h1 className='my-6 text-4xl'>Investment vs Revenue</h1>
+                <h1 className='my-6 text-4xl text-center'>Investment vs Revenue</h1>
                 <ResponsiveContainer width='50%' height={500}>
                     <PieChart width={800} height={350}>
                         <Pie data={dashboard} dataKey="investment" nameKey="name" cx="50%" cy="50%" outerRadius={50} fill="#8884d8" />

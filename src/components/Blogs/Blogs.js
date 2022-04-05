@@ -4,7 +4,8 @@ const Blogs = () => {
     return (
         <section className="text-gray-600 body-font overflow-hidden">
             <div className="container px-5 py-24 mx-auto">
-                <div className="-my-8 divide-y-2 divide-gray-100">
+                <div className="-my-8 divide-y-2 divide-red-100">
+                    <h1>Rea</h1>
                     <div className="py-8 md:flex-grow">
                         <h2 className="text-2xl font-medium text-gray-900 title-font mb-2">What is Context API? What are the uses of it?</h2>
                         <p className="leading-relaxed">Context API is an API of React js that makes an way for React to effectively create global variables that can be passed around children. It has a special purpose to solve the problem of state management. React pieces an application into components for maintability purpose. There might be need of same data to be used in different components. Hence React needs to pass data from parent to child component through props. In large application where lot of components are there, there might be difficulties in managing props. Here Context API comes in to solve this issue. A context is created in parent component and wrap it;s child components. Where needed, any child component can use this context to have the same data for use. </p>
