@@ -1,6 +1,6 @@
 # Project Title: Health Simple
 
-Live Site Link:(https://github.com/facebook/create-react-app).
+Live Site Link: (https://health-simple-286bf2.netlify.app/).
 
 ## Key Steps of Project Development
 *   Project initialized with create react app and necessary dependencies were installed
